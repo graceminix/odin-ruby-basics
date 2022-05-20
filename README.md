@@ -1,1 +1,2 @@
+Sub_Strings:  Able to take a string, and a dictionary, and determine how many words in the dictionary are in the string, and how many times.  Returns a hash with the word and the instances.  Case insensitive.  
 # odin-ruby-basics
